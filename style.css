@@ -1,0 +1,144 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.nav a{
+    text-decoration: none;
+    float: left;
+    padding: 10px;
+    color: black;
+}
+.nav ul{
+    list-style-type: none;
+    padding-left: 900px;
+}
+h1{
+    font-weight: 700;
+    font-size: 45px;
+}
+.name-highlight{
+    color: orangered; 
+}
+.top-part{
+    padding-top: 100px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.about-highlight{
+    color: #d35400;
+}
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #CCCCFF, #6495ED);
+    color: #fff;
+    padding: 8px 30px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.cv-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #ff7f50,#ff4757);
+    color: #fff;
+    padding: 12px 40px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.project-part{
+    background-color:#ced6e0;
+}
+.project-part h2{
+    text-align: center;
+    padding-top: 80px;
+}
+.project{
+    display: flex;
+    width: 30%;
+    padding-left: 40px;
+    
+}
+.project img{
+    width: 100%;
+    padding: 10px;
+    padding-top: 80px;
+}
+.contact{
+    padding-top: 1px;
+    height: 600px;
+    background-color: gray;
+}
+.form{
+    padding-top: 50px;
+    width: 45%; 
+    padding-left: 350px;
+   
+}
+.contact-me{
+    color: #fff;
+    background-color: #454545;
+    padding: 60px 55px;
+    border-radius: 5px;
+    
+}
+.contact-me h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.submit-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #999999, #454545);
+    color: #fff;
+    padding: 8px 30px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.button{
+    padding-top: 20px;
+    padding-left: 185px;
+}
+.baner{
+    padding-top: 110px;
+    height: 300px;
+    padding-left: 280px;
+}
+.baner img{
+    width: 70%;
+}
+.text a{
+    text-decoration: none;
+    color: #fff;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 20px 30px;
+    border-radius: 5px;
+}
+.text h3{
+    color: #fff;
+    padding-right: 335px;
+}
+.text{
+    padding-top: 60px;
+    padding-left: 30px;
+    position: absolute;
+    display: flex;
+}
+.footer{
+    height: 200px;
+    text-align: center;
+}
+.connect h5{
+   color: #515255
+}
+.icon{
+     height: 50px;
+}
